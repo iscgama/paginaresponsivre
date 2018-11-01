@@ -1,2 +1,2 @@
-# paginaresponsivre
+# paginaresponsive
 Pagina web responsive
